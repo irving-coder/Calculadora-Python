@@ -21,3 +21,4 @@ print('La suma de '+ str(entrada1) +' + '+ str(entrada2) +' es: '+ str(suma(entr
 print('La resta de '+ str(entrada1) +' - '+ str(entrada2) +' es: '+ str(resta(entrada1, entrada2)))
 print('El producto de '+ str(entrada1) +' x '+ str(entrada2) +' es: '+ str(producto(entrada1, entrada2)))
 print('La división de '+ str(entrada1) +' - '+ str(entrada2) +' es: '+ str(division(entrada1, entrada2)))
+print('Adios')
