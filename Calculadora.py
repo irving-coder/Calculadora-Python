@@ -1,5 +1,5 @@
-entrada1 = 8
-entrada2 = 5
+entrada1 = 34
+entrada2 = 13
 
 # Función suma
 def suma(ent1, ent2):
