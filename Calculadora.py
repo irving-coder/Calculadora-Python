@@ -1,15 +1,19 @@
 entrada1 = 8
 entrada2 = 5
 
+# Función suma
 def suma(ent1, ent2):
     return ent1 + ent2
 
+# Función resta
 def resta(ent1, ent2):
     return ent1 - ent2
 
+# Función producto
 def producto(ent1, ent2):
     return ent1 * ent2
 
+# Función división
 def division(ent1, ent2):
     return ent1 / ent2
 
